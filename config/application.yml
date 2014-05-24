@@ -2,9 +2,9 @@
 # See http://railsapps.github.io/rails-environment-variables.html
 # This file should be listed in .gitignore to keep your settings secret!
 # Each entry sets a local environment variable and overrides ENV variables in the Unix shell.
-GMAIL_USERNAME: avivasterns
+GMAIL_USERNAME: aviva.sterns
 GMAIL_PASSWORD: NkHHQ2vW
 MAILCHIMP_API_KEY: cd488ac9a902242a4a9b3331ec6d2a75
 MAILCHIMP_LIST_ID: 4481b68fc0
 DOMAIN_NAME: "example.com"
-OWNER_EMAIL: "aviva.sterns@gmail.com"
+OWNER_EMAIL: aviva.sterns@gmail.com
